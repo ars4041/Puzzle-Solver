@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TiltPTUI tilt-4.txt &lt; tilt-4-ptui-in.txt" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="21" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="puzzles.tilt.ptui.TiltPTUI" />
+    <module name="ChessTilt" />
+    <option name="PROGRAM_PARAMETERS" value="data/tilt/tilt-4.txt" />
+    <option name="REDIRECT_INPUT" value="true" />
+    <option name="INPUT_FILE" value="$PROJECT_DIR$/input/tilt-4-ptui-in.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="puzzles.jam.ptui.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

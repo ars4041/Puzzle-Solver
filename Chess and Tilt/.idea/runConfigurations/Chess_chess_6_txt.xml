@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Chess chess-6.txt" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="21" />
+    <option name="MAIN_CLASS_NAME" value="puzzles.chess.solver.Chess" />
+    <module name="ChessTilt" />
+    <option name="PROGRAM_PARAMETERS" value="data/chess/chess-6.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="puzzles.chess.solver.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

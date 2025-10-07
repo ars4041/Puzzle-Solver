@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ChessPTUI chess-4.txt" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="21" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+    <option name="MAIN_CLASS_NAME" value="puzzles.chess.ptui.ChessPTUI" />
+    <module name="ChessTilt" />
+    <option name="PROGRAM_PARAMETERS" value="data/chess/chess-4.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="puzzles.hoppers.ptui.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

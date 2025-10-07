@@ -1,0 +1,4 @@
+Hours: 12, Start: 2, End: 15
+Total configs: 25
+Unique configs: 12
+No solution

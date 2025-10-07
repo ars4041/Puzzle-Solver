@@ -1,0 +1,7 @@
+Hours: 12, Start: 2, End: 11
+Total configs: 11
+Unique configs: 7
+Step 0: 2
+Step 1: 1
+Step 2: 12
+Step 3: 11
